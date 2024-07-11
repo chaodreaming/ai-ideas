@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39a1e99c-8f4f-4bda-ae67-eb73adbe5715" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/mamba/ZigMa/ZigMa.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/下采样/AutoFocusFormer Image Segmentation off the Grid/2304.12406v2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/下采样/Correlated and Multi-frequency Diffusion Modeling for Highly Under-sampled MRI Reconstruction/CM-DM-main.zip" beforeDir="false" afterPath="$PROJECT_DIR$/下采样/Correlated and Multi-frequency Diffusion Modeling for Highly Under-sampled MRI Reconstruction/CM-DM-main.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/下采样/FouriDown Factoring Down-Sampling into Shuffling and Superposing/1597_fouridown_factoring_down_sampl.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/卷积/AsymmetricConv/ACNet.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/卷积/Improving Convolutional Networks with Self-Calibrated Convolutions/mmpose-main.zip" beforeDir="false" afterPath="$PROJECT_DIR$/卷积/Improving Convolutional Networks with Self-Calibrated Convolutions/mmpose-main.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/卷积/Involution/PaddleClas-release-2.5.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/卷积/KernelWarehouseTowards Parameter-EffcientDynamic Convolution/KernelWarehouse.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/注意力/Activating More Pixels in Image Super-Resolution Transformer/Activating More Pixels in Image Super-Resolution Transformer.pdf" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/注意力/An Empirical Evaluation of Generic Convolutional and Recurrent Networks/An Empirical Evaluation of Generic Convolutional and Recurrent Networks.pdf-对照翻译-2024-07-11 18-12-39.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/注意力/BiFormer Vision Transformer with Bi-Level Routing Attention/BiFormer.pdf-对照翻译-2024-07-11 18-13-18.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/注意力/CBAM Convolutional Block Attention Module/CBAM Convolutional Block Attention Module.pdf-对照翻译-2024-07-11 18-13-54.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/注意力/CenterMask  Real-Time Anchor-Free Instance Segmentation/CenterMask Real-Time Anchor-Free Instance Segmentation.pdf-对照翻译-2024-07-11 18-15-17.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/注意力/CityCAN/CityCAN.pdf-对照翻译-2024-07-11 18-16-25.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/注意力/ECA-Net Efficient Channel Attention for Deep Convolutional Neural Networks/ECA-Net Efficient Channel Attention for Deep Convolutional Neural Networks.pdf-对照翻译-2024-07-11 18-17-45.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/注意力/Efficient Multi-Scale Attention Module with Cross-Spatial Learning/Efficient Multi-Scale Attention Module with Cross-Spatial Learning.pdf-对照翻译-2024-07-11 18-18-28.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/注意力/FECAM/FECAM.pdf-对照翻译-2024-07-11 18-19-14.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2j5tH19AVhRczcBQVx7ZM592P0b" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,10 +36,19 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/ai-ideas",
+    "last_opened_file_path": "D:/ai-ideas/注意力/FECAM",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ai-ideas\注意力\ECA-Net Efficient Channel Attention for Deep Convolutional Neural Networks" />
+      <recent name="D:\ai-ideas\注意力\CityCAN" />
+      <recent name="D:\ai-ideas\注意力\CenterMask  Real-Time Anchor-Free Instance Segmentation" />
+      <recent name="D:\ai-ideas\注意力\CBAM Convolutional Block Attention Module" />
+      <recent name="D:\ai-ideas\注意力\BiFormer Vision Transformer with Bi-Level Routing Attention" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
